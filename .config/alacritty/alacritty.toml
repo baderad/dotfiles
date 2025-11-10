@@ -3,7 +3,7 @@ import = [
   "~/.config/alacritty/font.toml",
   "~/.config/alacritty/font-size.toml",
   "~/.local/share/omakub/defaults/alacritty.toml",
-  "~/.cfg/alacrity/alacrity.toml",
+  "~/.config/alacrity/theme-catp.toml",
 ]
 
 [window]

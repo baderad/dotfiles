@@ -6,6 +6,7 @@ return {
     },
     opts = {
       words = { enabled = false },
+      explorer = { enabled = false },
     },
   },
 }
